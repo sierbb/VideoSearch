@@ -1,5 +1,5 @@
 *.properties
+**/.DS_Store
 
 # intellij configs
 .idea/*
-.idea/,*
